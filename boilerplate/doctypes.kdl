@@ -121,6 +121,7 @@ org "w3c" {
     group "immersivewebwg" type="wg"
     group "mediacapture" type="wg" priv-sec=true
     group "mediawg" type="wg" priv-sec=true
+    group "patwg" type="wg"
     group "patcg" type="cg"
     group "patcg-id" type="cg"
     group "ping" type="ig"
